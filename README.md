@@ -2,6 +2,10 @@
 
 Versión simple del videojuego pong de 1972 creado con pygame
 
+## ScreenShots
+
+![Screenshot 1](https://github.com/DanielCazorro/Arkanoid_/blob/main/Pictures/Screenshot1.png) ![Screenshot 2](https://github.com/DanielCazorro/Arkanoid_/blob/main/Pictures/Screenshot2.png)
+
 ## Creación y activación de un entorno virtual
 
 1. Crear el entorno virtual
